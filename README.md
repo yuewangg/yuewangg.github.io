@@ -6,7 +6,7 @@
 
 ### <font color="#0000dd">Brief bio</font>
 
-I am currently a Ph.D. candidate at Zhejiang University, under the supervision of Prof. [Ronghao Zheng](https://person.zju.edu.cn/ronghaozheng) and Prof. [Meiqin Liu](https://person.zju.edu.cn/mliu). My research interests include SLAM, control and planning in robotics.
+I am a Master Student at Harbin Engineering University, and my research is focused on developing an Autonomous Underwater Vehicle (AUV) using Computer Vision and Machine Learning which would be capable of underwater intervention. I am passionate about continually learning new and exciting things, and particularly things related to engineering and technology.
 
 ---
 

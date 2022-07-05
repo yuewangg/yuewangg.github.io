@@ -41,6 +41,7 @@ I am a Master Student at Harbin Engineering University, and my research is focus
 ### <font color="#0000dd">Academic Services</font>
 
 - IEEE Student Member
+- IEEE Computational Intelligence Society Membership
 
 ---
 

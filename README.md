@@ -49,7 +49,7 @@ I am passionate about continually learning new and exciting things, and particul
 
 ### <font color="#0000dd">Useful links</font>
 
-- [GitHub](https://github.com/yuewangg) 
+- [Google scholar]() 
 
 - [Twitter](https://twitter.com/yuewanggg) 
 

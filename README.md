@@ -1,12 +1,14 @@
 ## <font color="#0000dd">Yue Wang (王跃)</font>
 
-*Cherish your love and family.*
+*“May you remember to enjoy the road, especially when it's a hard one.” - Kobe Bryant.*
 
-![sky](sky.jpg)
+![img](img.jpg)
 
 ### <font color="#0000dd">Brief bio</font>
 
-I am a Master Student at Harbin Engineering University, and my research is focused on developing an Autonomous Underwater Vehicle (AUV) using Computer Vision and Machine Learning which would be capable of underwater intervention. I am passionate about continually learning new and exciting things, and particularly things related to engineering and technology.
+I am a Master Student at Harbin Engineering University, before that I completed my bachelor's degree at Shandong University of Science and Technology. 
+My previous research is focused on developing an Autonomous Underwater Vehicle (AUV) using Computer Vision and Machine Learning which would be capable of underwater intervention.Now, I am doing an internship at [Goertek](https://www.goertek.com/). Mainly working on VR/AR and SLAM. 
+I am passionate about continually learning new and exciting things, and particularly things related to engineering and technology.
 
 ---
 
@@ -21,18 +23,18 @@ I am a Master Student at Harbin Engineering University, and my research is focus
 
 ##### <font color="#dd0000">Journal papers</font>
 
-- **Yang Xu**, Ronghao Zheng\*, Meiqin Liu et al. **CRMI: Confidence-rich Mutual Information for Information-theoretic Mapping**, *IEEE Robotics and Automation Letters (**RA-L**)*, 6(4): 6434 - 6441, 2021. (presented at **IROS 2021**) [DOI: 10.1109/LRA.2021.3093023](https://ieeexplore.ieee.org/document/9466474).(fake)
+- **NONE**
 
 ##### <font color="#dd0000">Conference papers</font>
 
-- Di Wu, **Yue Wang**\* et al. **Performance Analysis of Feature Extraction Methods towards Underwater VSLAM**, *IEEE ICCA 2022*, accepted. [[Preprint on arxiv]()]
+- Di Wu, **Yue Wang**\* et al. **Performance Analysis of Feature Extraction Methods towards Underwater VSLAM**, *IEEE ICCA 2022*, accepted. [[Waiting]()]
 
 
 ---
 
 ### <font color="#0000dd">Projects</font>
 
-- **ROS simulator for underwater robotics** (Jul. 2019 - Apr. 2020)
+- **ROS simulator for underwater robotics** (Jul. 2021 - Apr. 2022)
 
   A simulator for underwater vehicles mounted with different sensors, such as sonar, camera and IMU.
 
@@ -47,9 +49,9 @@ I am a Master Student at Harbin Engineering University, and my research is focus
 
 ### <font color="#0000dd">Useful links</font>
 
-- [Google scholar]() 
+- [GitHub](https://github.com/yuewangg) 
 
-- [Researchgate]() 
+- [Twitter](https://twitter.com/yuewanggg) 
 
 ---
 

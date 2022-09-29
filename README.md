@@ -27,7 +27,7 @@ I am passionate about continually learning new and exciting things, and particul
 
 ##### <font color="#dd0000">Conference papers</font>
 
-- Di Wu, **Yue Wang**\* et al. **Performance Analysis of Feature Extraction Methods towards Underwater VSLAM**, *IEEE ICCA 2022*, accepted. [[Waiting]()]
+- Di Wu, **Yue Wang**\* et al. **Performance Analysis of Feature Extraction Methods towards Underwater VSLAM**, *IEEE ICCA 2022*, accepted. [[Published](https://ieeexplore.ieee.org/document/9831964)]
 
 
 ---

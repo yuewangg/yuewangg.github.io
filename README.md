@@ -7,7 +7,7 @@
 ### <font color="#0000dd">Brief bio</font>
 
 I am a Master Student at Harbin Engineering University, before that I completed my bachelor's degree at Shandong University of Science and Technology. 
-My previous research is focused on developing an Autonomous Underwater Vehicle (AUV) using Computer Vision and Machine Learning which would be capable of underwater intervention.Now, I am doing an internship at [Goertek](https://www.goertek.com/). Mainly working on VR/AR and SLAM.The focus of my research is lifelong SLAM for dynamic environments.
+My previous research is focused on developing an Autonomous Underwater Vehicle (AUV) using Computer Vision and Machine Learning which would be capable of underwater intervention.Now, I am doing an internship at [Goertek](https://www.goertek.com/). Mainly working on VR/AR and SLAM.The focus of my research is lifelong SLAM in dynamic environments.
 
 I am passionate about continually learning new and exciting things, and particularly things related to engineering and technology.
 
@@ -50,7 +50,7 @@ I am passionate about continually learning new and exciting things, and particul
 
 ### <font color="#0000dd">Useful links</font>
 
-- [Google scholar]() 
+- [Google scholar]() (Fake)
 
 - [Twitter](https://twitter.com/yuewanggg) 
 

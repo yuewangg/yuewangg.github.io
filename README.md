@@ -6,7 +6,8 @@
 
 ### <font color="#0000dd">Brief bio</font>
 
-I am a Master Student at Harbin Engineering University, before that I completed my bachelor's degree at Shandong University of Science and Technology. 
+I am a control engineering Master student, at Harbin Engineering University, before that I completed my bachelor's degree at Shandong University of Science and Technology. I have two bachelor's degrees, Electrical Engineering & Information and Computing Sciences. 
+
 My previous research is centered around the problems of navigation and mapping for autonomous robots operating in underwater environments. Now, I am an intern at [Goertek](https://www.goertek.com/), and mainly working on VR/AR and SLAM. The focus of my research is lifelong SLAM in dynamic environments.
 
 I am passionate about continually learning new and exciting things, and particularly things related to engineering and technology.

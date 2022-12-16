@@ -18,6 +18,7 @@ I am passionate about continually learning new and exciting things, and particul
 
 - <font color="#dd0000">2022.06.30</font> I gave an oral presentation on **IEEE ICCA 2022**. Video here: [Bilibili](https://www.bilibili.com/video/BV1JT41137RZ)
 - <font color="#dd0000">2022.04.17</font> One paper got accepted by **IEEE ICCA 2022**.
+- <font color="#dd0000">2022.12.16</font> We Won the Second Prize of the “Huawei Cup” - [the 19th China Postgraduate Mathematical Contest in Modeling](https://cpipc.acge.org.cn/cw/hp/4).
 
 ---
 

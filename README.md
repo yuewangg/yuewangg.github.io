@@ -6,9 +6,9 @@
 
 ### <font color="#0000dd">Brief bio</font>
 
-I am a control engineering Master student, at Harbin Engineering University, before that I completed my bachelor's degree at Shandong University of Science and Technology. I have two bachelor's degrees, Electrical Engineering & Information and Computing Sciences. 
+I am a control engineering Master student, at Harbin Engineering University. The focus of my research is lifelong SLAM in dynamic environments. Prior to that, I completed my bachelor's degree at Shandong University of Science and Technology. I have two bachelor's degrees, Electrical Engineering & Information and Computing Sciences.
 
-My previous research is centered around the problems of navigation and mapping for autonomous robots operating in underwater environments. Now, I am an intern at [Goertek](https://www.goertek.com/), and mainly working on VR/AR and SLAM. The focus of my research is lifelong SLAM in dynamic environments.
+My previous research is centered around the problems of navigation and mapping for autonomous robots operating in underwater environments. I was an intern worked on SLAM algorithms in VR/AR at [Goertek](https://www.goertek.com/en/). Right now, I'm working on a project that vision-based clothes-folding intelligent robot.
 
 I am passionate about continually learning new and exciting things, and particularly things related to engineering and technology.
 
@@ -16,7 +16,6 @@ I am passionate about continually learning new and exciting things, and particul
 
 ### <font color="#0000dd">News</font>
 
-- <font color="#dd0000">2022.06.30</font> I gave an oral presentation on **IEEE ICCA 2022**. Video here: [Bilibili](https://www.bilibili.com/video/BV1JT41137RZ)
 - <font color="#dd0000">2022.04.17</font> One paper got accepted by **IEEE ICCA 2022**.
 - <font color="#dd0000">2022.12.16</font> We Won the Second Prize of the “Huawei Cup” - [the 19th China Postgraduate Mathematical Contest in Modeling](https://cpipc.acge.org.cn/cw/hp/4).
 
@@ -32,7 +31,6 @@ I am passionate about continually learning new and exciting things, and particul
 
 - Di Wu, **Yue Wang**\* et al. **Performance Analysis of Feature Extraction Methods towards Underwater VSLAM**, *IEEE ICCA 2022*, accepted. [[Published](https://ieeexplore.ieee.org/document/9831964)]
 
-
 ---
 
 ### <font color="#0000dd">Projects</font>
@@ -40,11 +38,18 @@ I am passionate about continually learning new and exciting things, and particul
 - **ROS simulator for underwater robotics** (Jul. 2021 - Apr. 2022)
 
   A simulator for underwater vehicles mounted with different sensors, such as sonar, camera and IMU.
+- **Qualcomm Snapdragon XR2-based 6DOF pose estimation algorithm** (Aug. 2022 - Nov. 2023)
+
+  Optimisation of SLAM algorithm for [PICO 4](https://www.picoxr.com/global/activity/xmax_deals?utm_source=official_website) in terms of computing speed and positioning accuracy.
+- **Instance segmentation in MMYOLO** (Dec. 2022 - Jan. 2023)
+
+  Support for the YOLOv5 instance segmentation task in [MMYOLO](https://github.com/open-mmlab/mmyolo), mainly responsible for data transforms and loss functions.
 
 ---
 
 ### <font color="#0000dd">Academic Services</font>
 
+- [CSIG](http://www.csig.org.cn/) Student Member
 - IEEE Student Member
 - IEEE Computational Intelligence Society Membership
 
@@ -53,11 +58,10 @@ I am passionate about continually learning new and exciting things, and particul
 ### <font color="#0000dd">Useful links</font>
 
 - [Google scholar]() (Fake)
-
-- [Twitter](https://twitter.com/yuewanggg) 
+- [Twitter](https://twitter.com/yuewanggg)
 
 ---
 
 ### <font color="#0000dd">Contact me</font>
 
-- yuewangg@outlook.com (academic)
+- *yuewangg@outlook.com*

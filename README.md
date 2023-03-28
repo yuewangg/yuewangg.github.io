@@ -6,11 +6,11 @@
 
 ### <font color="#0000dd">Brief bio</font>
 
-I am a control engineering Master student under the supervision of [Prof. Di Wu](http://homepage.hrbeu.edu.cn/web/wudi1), at Harbin Engineering University. The focus of my research is lifelong SLAM in dynamic environments. Prior to that, I completed my bachelor's degree at Shandong University of Science and Technology. I have two bachelor's degrees, Electrical Engineering & Information and Computing Sciences.
+I am a Control Engineering Master's student under the supervision of [Prof. Di Wu](http://homepage.hrbeu.edu.cn/web/wudi1) at Harbin Engineering University. My research focus is on lifelong SLAM in dynamic environments. I received my Bachelor's degree in Electrical Engineering and Information and Computing Sciences at Shandong University of Science and Technology.
 
-My previous research is centered around the problems of navigation and mapping for autonomous robots operating in underwater environments. I was an intern worked on SLAM algorithms in VR/AR at [Goertek](https://www.goertek.com/en/). Right now, Right now, I am a visiting student at Southern University of Science and Technology under the supervision of [Prof. Zhiyun Lin](https://faculty.sustech.edu.cn/linzy/).
+Previously, my research has centred around navigation and mapping problems for autonomous robots operating in underwater environments. I was an intern at [Goertek](https://www.goertek.com/en/), where I worked on SLAM algorithms in VR/AR. Currently, I am a visiting student at Southern University of Science and Technology under the supervision of [Prof. Zhiyun Lin](https://faculty.sustech.edu.cn/linzy/).
 
-I am passionate about continually learning new and exciting things, and particularly things related to engineering and technology.
+My passion for continuously learning new and exciting things is rooted in engineering and technology.
 
 ---
 
